@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-bradlygc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradlygutierrez/random-str-msg-bradlygc.git"
+  },
+  "author": "Bradly Gutierrez <bradlygc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradlygutierrez/random-str-msg-bradlygc/issues"
+  },
+  "homepage": "https://github.com/bradlygutierrez/random-str-msg-bradlygc#readme",
+  "bin": {
+    "random-str-msg" : "bin/global.js"
+  },
+  "preferGlobal": true
+}
